@@ -34,7 +34,7 @@
 #6) use use BurpSuite or other bruter with local proxy
 
 proxylist="./2022-01-31__http.txt"
-outputlist="./http_result.xt"
+outputlist="./http_result.txt"
 threads=10
 checktarget="https://mail.com/robots.txt"
 
