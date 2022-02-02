@@ -1,0 +1,296 @@
+http 62.141.45.214 3128  Germany  None  None
+http 35.152.75.76 8181  Italy  Lombardy  Milan
+http 5.153.234.91 3128  United States  None  None
+http 67.55.186.162 8080  United States  Iowa  Batavia
+http 189.203.10.116 999  Mexico  Oaxaca  Oaxaca City
+http 80.147.49.108 3128  Germany  North Rhine-Westphalia  Essen
+http 77.236.238.33 1256  Russia  Moscow  Moscow
+http 139.99.99.165 8000  Singapore  None  Singapore
+http 143.110.248.3 3128  India  Karnataka  Bengaluru
+http 116.58.239.76 80  Thailand  None  None
+http 185.128.104.33 8080  Russia  Moscow Oblast  None
+http 182.52.83.58 8080  Thailand  Phra Nakhon Si Ayutthaya  Ayutthaya
+http 46.73.176.209 53281  Russia  Moscow  Moscow
+http 93.100.113.99 8080  Russia  St.-Petersburg  St Petersburg
+http 125.163.161.250 8080  Indonesia  Central Java  Semarang
+http 200.61.16.80 8080  Argentina  Cordoba  Bulnes
+http 49.70.13.237 7082  China  None  None
+http 95.161.188.246 38302  Russia  Tatarstan Republic  Kazan’
+http 139.99.99.165 3128  Singapore  None  Singapore
+http 177.129.253.133 3128  Brazil  Sao Paulo  Penapolis
+http 103.137.218.166 83  India  Jharkhand  Amlo
+http 103.111.53.102 63238  Indonesia  West Java  Kuningan
+http 34.229.168.95 8118  United States  Virginia  Ashburn
+http 91.209.114.17 6789  Hungary  Budapest  Budapest
+http 77.46.142.150 8080  Serbia  None  None
+http 212.92.204.54 80  Croatia  City of Zagreb  Zagreb
+http 183.173.23.100 7890  China  None  None
+http 45.238.21.210 999  Chile  Santiago Metropolitan  Santiago
+http 187.62.67.166 45005  Brazil  Sergipe  Aracaju
+http 190.128.231.146 8080  Paraguay  Asuncion  Asunción
+http 177.53.155.21 999  Peru  Lima  Lima
+http 46.198.132.230 21231  Greece  None  None
+http 85.25.208.212 5566  France  Grand Est  Strasbourg
+http 68.188.63.149 8080  United States  Missouri  Farmington
+http 103.251.225.16 6666  India  Gujarat  Bharuch
+http 18.231.141.133 9080  Brazil  Sao Paulo  São Paulo
+http 191.102.74.113 8080  Colombia  Bogota D.C.  Bogotá
+http 103.250.157.43 6666  India  Gujarat  Godhra
+http 59.14.121.77 4007  South Korea  None  None
+http 164.70.70.77 3128  Japan  Saitama  Kitaadachi-gun
+http 140.227.225.120 3128  Japan  None  None
+http 43.155.96.103 59394  Hong Kong  Central and Western District  Central
+http 178.217.172.206 55443  Kyrgyzstan  None  None
+http 124.158.175.19 8080  Indonesia  West Java  Bogor
+http 190.8.36.242 999  Dominican Republic  Provincia de Santo Domingo  Santo Domingo Este
+http 194.233.69.38 443  Singapore  None  Singapore
+http 103.241.227.117 6666  India  Gujarat  Vadodara
+http 185.53.35.1 8080  Ireland  Munster  Tipperary
+http 102.66.163.239 5050  South Africa  Mpumalanga  Nelspruit
+http 104.192.202.11 8080  United States  Utah  St. George
+http 189.201.240.161 999  Mexico  Baja California  Tijuana
+http 101.51.106.70 49285  Thailand  Phatthalung  Phatthalung
+http 110.77.134.106 8080  Thailand  Bangkok  Dusit
+http 201.91.82.155 3128  Brazil  Sao Paulo  Ribeirão Preto
+http 139.255.129.161 8080  Indonesia  Jakarta  Jakarta
+http 182.253.232.58 44922  Indonesia  Jakarta  Jakarta
+http 125.62.198.65 84  India  Andhra Pradesh  Visakhapatnam
+http 61.216.185.88 60808  Taiwan  Kaohsiung  Kaohsiung City
+http 103.41.212.230 44759  Bangladesh  None  None
+http 146.56.112.236 5678  South Korea  Gangwon-do  Chuncheon
+http 115.226.159.185 8888  China  Shanghai  Shanghai
+http 36.81.34.173 41890  Indonesia  Central Java  Semarang
+http 94.181.48.95 1256  Russia  St.-Petersburg  St Petersburg
+http 45.230.168.17 999  Venezuela  Miranda  El Hatillo Municipality
+http 219.87.191.203 80  Taiwan  None  None
+http 71.172.1.50 8080  United States  New Jersey  Bridgewater
+http 103.109.2.76 8080  Indonesia  None  None
+http 103.159.194.205 8080  Indonesia  Central Java  Jepara
+http 45.201.136.87 8080  Cambodia  Phnom Penh  Phnom Penh
+http 170.244.210.107 999  Ecuador  Provincia del Canar  Canar
+http 165.0.50.110 8080  South Africa  Western Cape  Cape Town
+http 117.121.205.161 8080  Indonesia  None  None
+http 209.190.27.11 3128  United States  None  None
+http 45.179.200.73 999  Colombia  Departamento de Caldas  Riosucio
+http 213.137.240.243 81  Russia  Moscow Oblast  Balashikha
+http 103.253.113.54 80  Indonesia  None  None
+http 114.7.27.98 8080  Indonesia  Jakarta  Jakarta
+http 85.113.39.89 81  Russia  Samara Oblast  Samara
+http 202.83.173.114 8080  Pakistan  Punjab  Lahore
+http 202.147.206.98 8080  Indonesia  Jakarta  Jakarta
+http 45.156.29.127 9090  Turkey  None  None
+http 203.193.131.74 3128  India  West Bengal  Kolkata
+http 168.227.56.104 8080  Brazil  Sao Paulo  Votuporanga
+http 200.55.3.122 999  Argentina  Buenos Aires  Berisso
+http 45.65.132.148 8080  Brazil  Minas Gerais  Carlos Chagas
+http 36.92.177.147 80  Indonesia  Jakarta  Jakarta
+http 70.44.24.245 8888  United States  Pennsylvania  Hawley
+http 103.9.188.229 36984  Cambodia  None  None
+http 190.110.99.99 999  Chile  O'Higgins Region  Quinta de Tilcoco
+http 45.231.223.250 999  Mexico  Baja California  Tijuana
+http 170.83.108.65 8080  Argentina  Santa Fe  Serodino
+http 190.109.161.124 999  Colombia  Antioquia  Medellín
+http 182.253.191.132 8080  Indonesia  West Java  Bandung
+http 45.136.53.68 8080  Georgia  None  None
+http 201.182.240.64 999  Ecuador  Provincia de Pichincha  San Antonio
+http 190.112.219.57 999  Argentina  Santa Fe  Rosario
+http 116.251.216.95 8080  Singapore  None  None
+http 58.97.72.83 8080  Thailand  Bangkok  Bangkok
+http 171.103.58.122 8080  Thailand  Nonthaburi  Nonthaburi
+http 103.87.201.86 8080  Indonesia  Jakarta  Jakarta
+http 98.12.195.129 443  United States  None  Nonesocks4 95.43.125.120 4153  Bulgaria  Stara Zagora  Pavel Banya
+socks4 154.61.227.8 64312  Spain  Valencia  Altea
+socks4 89.186.5.146 1080  Poland  Lublin  Lublin
+socks4 91.244.114.193 31080  Russia  Altai Krai  Biysk
+socks4 77.71.168.9 4145  Malta  Il-Kalkara  Kalkara
+socks4 202.21.112.172 1080  Mongolia  Ulaanbaatar Hot  Ulan Bator
+socks4 185.236.146.68 512  Austria  Upper Austria  Wernstein am Inn
+socks4 46.175.70.69 59376  Ukraine  Zaporizhzhya Oblast  Kyzyl-Yar
+socks4 109.86.244.225 57649  Ukraine  Kharkiv  Kharkiv
+socks4 86.100.113.159 5678  Lithuania  Klaipėda County  Gargždai
+socks4 77.89.201.187 4153  Moldova  Chișinău Municipality  Chisinau
+socks4 94.182.26.43 4153  Iran  None  None
+socks4 188.136.162.30 4153  Iran  None  None
+socks4 45.174.71.254 1080  Mexico  Sonora  Ciudad Obregón
+socks4 193.215.41.198 5678  Norway  Trøndelag  Singsas
+socks4 103.156.14.50 5678  Indonesia  None  None
+socks4 128.201.102.170 5678  Brazil  Minas Gerais  Medina
+socks4 51.79.166.152 10084  Singapore  None  Singapore
+socks4 43.250.127.98 4153  Mongolia  None  None
+socks4 37.228.65.107 51032  Kazakhstan  None  None
+socks4 45.169.64.208 4145  Brazil  Goias  Itumbiara
+socks4 212.220.13.98 4153  Russia  Yamalo-Nenets  Nadym
+socks4 181.205.46.178 5678  Colombia  Antioquia  Medellín
+socks4 36.95.173.178 4153  Indonesia  West Java  Bandung
+socks4 38.133.200.94 31596  United States  Texas  Denton
+socks4 8.42.68.125 39593  United States  Colorado  Golden
+socks4 116.199.172.1 4145  India  None  None
+socks4 175.100.47.191 5678  Cambodia  Phnom Penh  Phnom Penh
+socks4 218.65.219.119 4153  China  None  None
+socks4 189.126.187.38 4153  Brazil  Sao Paulo  Lins
+socks4 194.28.91.10 5678  Ukraine  Crimea  Simferopol
+socks4 116.206.151.198 4153  India  Madhya Pradesh  Indore
+socks4 193.239.101.47 44712  Poland  Greater Poland  Gruszczyn
+socks4 116.116.108.101 1080  China  None  None
+socks4 202.29.231.46 61507  Thailand  Sukhothai  Sukhothai Thani
+socks4 197.235.12.130 4145  Mozambique  Cidade de Maputo  Maputo
+socks4 177.12.230.106 5678  Brazil  None  None
+socks4 60.12.214.184 46849  China  Zhejiang  Ningbo
+socks4 27.123.223.210 4145  Indonesia  Jakarta  Jakarta
+socks4 79.106.224.206 5678  Albania  None  None
+socks4 200.41.182.243 4145  Argentina  Buenos Aires  San Justo
+socks4 202.131.235.138 4153  Mongolia  Ulaanbaatar Hot  Ulan Bator
+socks4 93.40.5.232 5678  Italy  Campania  Marcianise
+socks4 96.69.76.161 5678  United States  Pennsylvania  Pittsburgh
+socks4 78.133.186.129 4153  Poland  None  None
+socks4 95.31.119.210 47930  Russia  Kursk Oblast  Kursk
+socks4 118.99.67.146 5678  Indonesia  Jakarta  Jakarta
+socks4 110.232.78.55 5678  Indonesia  North Sumatra  Medan
+socks4 213.6.210.50 4153  Palestine  Ramallah  Ramallah
+socks4 50.233.42.98 30717  United States  Illinois  Evanston
+socks4 123.200.24.174 5678  Bangladesh  None  None
+socks4 103.94.8.53 5678  Indonesia  South Sulawesi  Makassar
+socks4 117.220.171.105 4153  India  Uttar Pradesh  Moradabad
+socks4 70.185.95.162 39593  United States  Arkansas  Bentonville
+socks4 180.211.193.102 5678  Bangladesh  Barisal Division  Barishal
+socks4 36.95.101.29 3629  Indonesia  Banten  Serang
+socks4 70.35.213.226 4153  Canada  Quebec  Saint-Laurent
+socks4 103.144.181.122 44550  Indonesia  None  None
+socks4 45.7.247.188 4153  Argentina  Buenos Aires  Brandsen
+socks4 1.179.145.101 33109  Thailand  Saraburi  Ban Kaeng
+socks4 118.97.107.65 5430  Indonesia  West Java  Karangligar
+socks4 142.4.207.10 43741  Canada  None  None
+socks4 136.25.2.93 5678  United States  California  San Francisco
+socks4 200.29.120.4 5678  Colombia  Departamento del Valle del Cauca  Santiago de Cali
+socks4 101.32.240.243 42888  Singapore  None  Singapore
+socks4 212.233.105.14 5678  Russia  Moscow  Moscow
+socks4 5.133.24.236 5678  Palestine  Gaza  Gaza
+socks4 200.174.228.183 4153  Brazil  None  None
+socks4 202.169.246.55 4145  Indonesia  None  None
+socks4 50.255.17.229 32100  United States  California  Concord
+socks4 175.100.18.45 41575  Cambodia  Phnom Penh  Phnom Penh
+socks4 114.242.116.57 4145  China  Beijing  Beijing
+socks4 45.166.35.84 51372  Brazil  Espirito Santo  Marechal Floriano
+socks4 91.216.254.5 55555  Spain  Andalusia  Órgiva
+socks4 80.82.147.1 4153  Czechia  Moravskoslezsky kraj  Český Těšín
+socks4 103.113.3.180 4145  Indonesia  Banten  South Tangerang
+socks4 188.133.160.22 4145  Russia  None  None
+socks4 14.102.31.176 5678  India  Uttar Pradesh  Moradabad
+socks4 121.7.222.44 1080  Singapore  None  Singapore
+socks4 85.113.140.196 3629  Russia  Voronezh Oblast  Voronezh
+socks4 192.159.38.58 5678  Kazakhstan  Qostanay Oblysy  Aqsay
+socks4 124.126.18.167 8000  China  Hebei  Sanhe
+socks4 129.205.196.242 5678  Botswana  Gaborone  Gaborone
+socks4 207.241.178.137 8899  United States  None  None
+socks4 46.63.81.195 4145  Ukraine  Luhansk  Khmelnytskyi
+socks4 217.219.179.125 4153  Iran  None  None
+socks4 182.93.80.59 5678  Nepal  Bagmati Province  Kathmandu
+socks4 185.56.246.76 8291  Poland  Silesia  Knurow
+socks4 93.175.194.155 3629  Ukraine  Ivano-Frankivsk Oblast  Ivano-Frankivsk
+socks4 79.141.65.81 5678  Russia  None  None
+socks4 36.95.154.249 5678  Indonesia  Jakarta  Jakarta
+socks4 91.230.199.174 32151  Ukraine  None  None
+socks4 185.208.188.193 50318  Italy  Lombardy  Chiesa in Valmalenco
+socks4 37.252.66.240 5678  Armenia  Yerevan  Yerevan
+socks4 201.184.230.34 5678  Colombia  Antioquia  Medellín
+socks4 138.99.93.227 4145  Brazil  Ceara  Redencao
+socks4 101.109.255.18 49247  Thailand  Bangkok  Khlong San
+socks4 103.157.14.137 4153  India  Gujarat  Gandhidham
+socks4 85.185.152.146 4145  Iran  None  None
+socks4 193.111.223.200 51327  Slovenia  Ljubljana  Ljubljana
+socks4 85.117.56.146 4145  Georgia  K'alak'i T'bilisi  K'alak'i T'bilisi
+socks4 109.232.106.236 52435  Russia  Moscow Oblast  Elektrostal
+socks4 201.221.128.234 5678  Colombia  Departamento de Santander  Bucaramanga
+socks4 213.81.129.150 4145  Slovakia  Presov  Vlkova
+socks4 45.207.36.97 1080  Hong Kong  None  None
+socks4 185.51.92.108 51327  Portugal  Beja  Serpa
+socks4 189.2.164.165 4153  Brazil  Sao Paulo  São Paulo
+socks4 91.226.51.200 4145  Poland  None  None
+socks4 46.98.191.242 5678  Ukraine  Dnipropetrovsk Oblast  Novomoskovsk
+socks4 217.66.223.79 5678  Iran  Tehran  Tehran
+socks4 182.75.132.106 5678  India  Telangana  Hyderabad
+socks4 46.227.162.98 33802  Russia  Moscow  Moscow
+socks4 5.83.104.133 4153  Italy  None  None
+socks4 103.140.82.1 4145  Bangladesh  Dhaka Division  Khilgaon
+socks4 5.160.184.247 4145  Iran  None  None
+socks4 220.196.62.34 5678  China  Shanghai  Shanghaisocks5 195.2.71.201 16072  Russia  None  None
+socks5 121.37.168.247 1080  China  None  None
+socks5 142.93.143.155 9010  Netherlands  North Holland  Amsterdam
+socks5 42.248.121.197 8902  China  Liaoning  Anshan
+socks5 120.78.69.103 1080  China  Guangdong  Shenzhen
+socks5 59.51.87.27 7302  China  Hunan  Hengyang
+socks5 60.215.109.34 7302  China  Shandong  Laiwu
+socks5 219.135.149.68 7300  China  Guangdong  Guangzhou
+socks5 155.94.235.48 21310  United States  California  Los Angeles
+socks5 120.24.196.168 1080  China  Guangdong  Shenzhen
+socks5 42.248.76.37 8902  China  Shanghai  Shanghai
+socks5 119.3.231.232 8001  China  None  None
+socks5 124.227.14.147 7302  China  None  None
+socks5 223.112.183.58 7302  China  Jiangsu  Changzhou
+socks5 113.121.40.228 8902  China  Shanghai  Xuhui
+socks5 204.44.94.93 32661  United States  California  Los Angeles
+socks5 112.122.189.125 7300  China  Beijing  Beijing
+socks5 120.79.223.240 1080  China  Guangdong  Shenzhen
+socks5 120.79.184.141 1080  China  Guangdong  Shenzhen
+socks5 43.224.10.32 6667  India  Gujarat  Khambhat
+socks5 116.212.156.131 33427  Cambodia  Phnom Penh  Phnom Penh
+socks5 112.6.122.184 7302  China  Shandong  Qingdao
+socks5 122.193.18.165 7302  China  Jiangsu  Changshu
+socks5 39.108.0.1 1080  China  Guangdong  Shenzhen
+socks5 150.129.151.62 6667  India  Gujarat  Rajkot
+socks5 222.175.107.206 7302  China  None  None
+socks5 178.128.156.11 48511  United States  New Jersey  North Bergen
+socks5 103.208.12.39 7302  China  Beijing  Beijing
+socks5 222.175.107.206 7300  China  None  None
+socks5 120.237.253.142 1080  China  Guangdong  Foshan
+socks5 222.85.139.95 7302  China  Guizhou  Guiyang
+socks5 120.36.137.162 7302  China  Fujian  Xiamen
+socks5 121.37.26.217 1080  China  None  None
+socks5 222.175.22.198 7302  China  Shandong  Liaocheng
+socks5 49.89.49.52 20008  China  Jiangsu  Yancheng
+socks5 183.66.144.58 7302  China  Chongqing  Chongqing
+socks5 103.73.74.181 1080  Indonesia  West Java  Balongsari
+socks5 180.76.146.169 1080  China  None  None
+socks5 136.228.128.81 33427  Cambodia  Phnom Penh  Phnom Penh
+socks5 222.240.80.227 7302  China  Hunan  Changsha
+socks5 113.57.85.34 7300  China  Hubei  Wuhan
+socks5 221.207.6.100 7302  China  Shanghai  Shanghai
+socks5 219.154.156.21 7302  China  Henan  Nanyang
+socks5 136.228.131.236 33427  Cambodia  Phnom Penh  Phnom Penh
+socks5 101.33.118.32 36868  Hong Kong  Central and Western District  Central
+socks5 118.123.241.59 10808  China  Sichuan  Chengdu
+socks5 122.226.60.69 7302  China  None  None
+socks5 120.24.193.203 1080  China  Guangdong  Shenzhen
+socks5 142.4.207.10 48012  Canada  None  None
+socks5 117.177.146.48 7302  China  None  None
+socks5 61.160.93.54 7302  China  Jiangsu  Wuxi
+socks5 61.188.186.157 7302  China  None  None
+socks5 46.149.48.44 1000  Ukraine  Odessa  Odessa
+socks5 46.36.70.217 33427  Lithuania  Telsiai  Mažeikiai
+socks5 103.80.118.242 51080  India  Bihar  Araria
+socks5 103.241.227.110 6667  India  Gujarat  Vadodara
+socks5 142.93.137.235 49161  Netherlands  North Holland  Amsterdam
+socks5 223.244.237.126 7300  China  None  None
+socks5 180.167.161.166 7302  China  Shanghai  Shanghai
+socks5 218.76.202.167 7302  China  Hunan  Baishu
+socks5 120.24.186.175 1080  China  Guangdong  Shenzhen
+socks5 58.48.122.170 7302  China  Hubei  Wuhan
+socks5 117.84.156.254 8902  China  Beijing  Beijing
+socks5 1.13.165.87 8080  China  None  None
+socks5 213.32.62.217 1080  France  None  None
+socks5 114.231.198.35 20001  China  Jiangsu  Bitangmiao
+socks5 58.248.89.3 1080  China  Guangdong  Guangzhou
+socks5 124.94.101.166 7302  China  None  None
+socks5 111.43.105.154 7302  China  Heilongjiang  Daqing
+socks5 218.64.122.99 7302  China  Jiangxi  Fenyi
+socks5 58.219.63.200 8902  China  Jiangsu  Jiangyin
+socks5 138.68.18.219 9050  United States  California  Santa Clara
+socks5 91.204.250.183 33427  Italy  Abruzzo  Avezzano
+socks5 117.48.195.14 1088  China  None  None
+socks5 43.224.10.46 6667  India  Gujarat  Khambhat
+socks5 175.198.253.226 40086  South Korea  Gyeonggi-do  Gimpo-si
+socks5 42.248.120.42 8902  China  Liaoning  Anshan
+socks5 46.36.64.250 33427  Lithuania  Telsiai  Mažeikiai
+socks5 120.24.189.101 1080  China  Guangdong  Shenzhen
+socks5 129.146.229.159 20000  United States  Arizona  Phoenix
+socks5 222.187.74.246 8902  China  Jiangsu  Baihecun
